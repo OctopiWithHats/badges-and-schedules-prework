@@ -13,4 +13,5 @@ def batch_badge_creator(atendees)
 end
 
 def assign_rooms(atendees)
-  
+  assignments=[]
+  counter
